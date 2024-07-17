@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isha Dnyaneshwar Patil</h1>
+<h1 align="center">Hi 👋, I'm Isha Patil</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishapatil05" alt="ishapatil05" /></a> </p>
